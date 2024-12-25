@@ -1,5 +1,8 @@
 # MIPS Assembly Simulator
 
+## Introduction
+- This MIPS Assembly Simulator provides users with an intuitive platform to write, convert, and execute MIPS assembly language instructions. Designed as an educational tool, the simulator bridges the gap between theoretical understanding and practical application by allowing step-by-step execution of machine code. By providing real-time visualization of register and memory states, this simulator facilitates a deeper comprehension of how MIPS instructions manipulate data and control program flow. The project combines a clean, user-friendly interface with robust backend functionalities, offering an engaging experience for learners and professionals alike.
+
 ## Prerequisites
 - A modern web browser that supports JavaScript (e.g., Chrome, Firefox).
 
